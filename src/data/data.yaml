@@ -5142,6 +5142,7 @@ episodes:
     summer: true
     after:
       - MLP1
+      - 3x01-02
       - 8x25-26
       - 8x11
     comment: |
@@ -5152,6 +5153,26 @@ episodes:
 
       According to Starlight's statements, it is summer break, and she expected
       the school would be closed.
+      
+  9x03:
+    title: Uprooted
+    link: https://mlp.fandom.com/wiki/Uprooted
+    summer: true
+    after:
+      - MLP1
+      - 3x01-02
+      - 5x13
+      - 8x11
+      - 8x15
+      - 8x22
+      - 8x25-26
+      - 9x01-02
+    comment: |
+    
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.    
 
 order:
   - SM1-SU
@@ -5356,6 +5377,7 @@ order:
   - 8x25-26
   - 8xHS
   - 9x01-02
+  - 9x03
   - SM4-AU
   - SM4-WI
   - SM4-SP
