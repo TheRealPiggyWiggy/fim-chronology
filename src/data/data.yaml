@@ -5144,6 +5144,8 @@ episodes:
       - MLP1
       - 8x25-26
       - 8x11
+    before:
+      - 9x03
     comment: |
 
       School of Friendship is in evidence, Spike has wings, and Cozy Glow is
@@ -5159,17 +5161,52 @@ episodes:
     summer: true
     after:
       - MLP1
-      - 8x25-26
       - 9x01-02
+    before:
+      - 9x04
     comment: |
    
    
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.    
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
+  9x04:
+    title: Sparkle's Seven
+    link: https://mlp.fandom.com/wiki/Sparkle%27s_Seven
+    autumn: true
+    after:
+      - MLP1
+      - 9x03
+    comment: |
+   
+   
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      
+      
+   9x05:
+    title: The Point of No Return
+    link: https://mlp.fandom.com/wiki/The_Point_of_No_Return
+    autumn: true
+    summer: true
+    after:
+      - MLP1
+      - 8x01-02
+      - 8x11
+    comment: |
+   
+   
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      
+      
 order:
   - SM1-SU
   - 1x01-02
@@ -5357,6 +5394,7 @@ order:
   - 8x09
   - 8x10
   - 8x11
+  - 9x05
   - 8x12
   - 8x13
   - 8x14
@@ -5375,6 +5413,7 @@ order:
   - 9x01-02
   - 9x03
   - SM4-AU
+  - 9x04
   - SM4-WI
   - SM4-SP
   - SM5-SU
